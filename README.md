@@ -7,7 +7,7 @@
 <details><summary><b>Настройка окружения</b></summary>
 
 ### Регистрация
-Для начала вам нужно зарегистрироваться на [python-math-cs.compscicenter.ru](https://python-math-cs.compscicenter.ru).
+Для начала вам нужно зарегистрироваться на [spbu-py.manytask.org](https://spbu-py.manytask.org/signup).
 
 Если вы уже регистрировались в системе, можно просто нажать "Login".
 Если вы не помните или не уверены, то можете попробовать зарегистрироваться, и в случае, если такой пользователь уже имеется, получите сообщение об ошибке: "Email has already been taken". В таком случае тоже смело жмите "Login".
@@ -574,4 +574,4 @@ $ nano ~/.ipython/profile_default/startup/typecheck.py
 
 Для проверки типов добавить строчку `%%typecheck` в тестируемой ячейке.  
 Для применения `mypy` ко всем запускаемым ячейкам можно использовать [Nb Mypy](https://pypi.org/project/nb-mypy/).
-</details>
+</details>x`
